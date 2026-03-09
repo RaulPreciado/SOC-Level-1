@@ -35,3 +35,18 @@ Gain foundational knowledge of Security Operations Center (SOC) operations and d
 - Practiced identifying suspicious activity through log analysis.
 - Learned how SOC analysts investigate alerts and determine if they are true or false positives.
 - Developed an understanding of the incident escalation process.
+
+## Practice:
+### This section will go over my hands on experience for this course:
+
+1. Blue Team Introduction
+
+
+
+
+
+
+
+
+## Certificate:
+
